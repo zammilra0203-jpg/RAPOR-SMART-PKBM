@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "RAPOR SMART PKBM",
+  "short_name": "RAPOR SMART",
+  "description": "Sistem Administrasi dan Pengolahan Rapor Pendidikan Kesetaraan Paket A, B, dan C.",
+  "lang": "id-ID",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7f5",
+  "theme_color": "#116149",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
